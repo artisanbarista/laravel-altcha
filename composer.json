@@ -1,12 +1,12 @@
 {
-    "name": "webdevartisan/laravel-altcha",
+    "name": "artisanbarista/laravel-altcha",
     "description": "A Laravel server implementation for Altcha.",
     "keywords": [
         "Grant Holle",
         "laravel",
         "laravel-altcha"
     ],
-    "homepage": "https://github.com/webdevartisan/laravel-altcha",
+    "homepage": "https://github.com/artisanbarista/laravel-altcha",
     "license": "MIT",
     "authors": [
         {
